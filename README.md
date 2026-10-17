@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [Slicer/Slicer](https://github.com/Slicer/Slicer), the 3D Slicer platform for image analysis and visualization. Its volume, segmentation, surface-model, and transform tools support interactive exploration of imaging data, while its module structure provides a starting point for extending research workflows.
+
+Fork work is tracked in [upstream PR #9478](https://github.com/Slicer/Slicer/pull/9478), proposing macOS bundle-packaging failure checks, path containment, and ARM64 workflow documentation. It was open on 17 October 2026 and is tracked on its linked feature branch.
+
+Start with the [official Slicer site](https://www.slicer.org) for downloads, documentation, and tutorials. [Compare the default branch with upstream](https://github.com/jdotc1/Slicer/compare/Slicer:main...jdotc1:main). The original project overview, screenshots, community links, and licensing guidance follow.
+
+---
+
 <img height="205" alt="3D-Slicer-Mark" src="/Applications/SlicerApp/Resources/Images/Slicer_Logo_Horizontal.svg" />
 
 [![DOI: 10.1016/j.mri.2012.05.001](https://img.shields.io/badge/DOI-10.1016/j.mri.2012.05.001-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/22770690/)
